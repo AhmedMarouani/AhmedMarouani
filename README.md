@@ -3,12 +3,11 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently A **Full Stack Web Developer**. <br>
+      🎓 I am currently A <strong> Full Stack Web Developer</strong>. <br>
       🌱 I am currently working with reactJs, Angular, SpringBoot, Python.<br>
-      🎯 My Goal is to Contribute to as many **open source project** as possible.<br>
-      ✨ I love to create different types of **contents**.<br>
-    </td>
-    
+      🎯 My Goal is to Contribute to as many <strong>open source project</strong>  as possible.<br>
+      ✨ I love to create different types of contents.<br>
+    </td>  
   </tr>
   </table>
   <br><br>
